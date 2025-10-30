@@ -1,0 +1,289 @@
+[
+    {
+        "image": "assets/image/Image_1_row1.jpg",
+        "title": "Bán Kiếm Tiểu Tiên",
+        "chapters": "260 Chương",
+        "summary": "assets/text/summary/ban_kiep_tieu_tien.txt",
+        "author": "Tích Thần",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            },
+            {
+                "chaptersID": "2",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter2.txt"
+            },
+            {
+                "chaptersID": "3",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter3.txt"
+            },
+            {
+                "chaptersID": "4",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter4.txt"
+            },
+            {
+                "chaptersID": "5",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter5.txt"
+            },
+            {
+                "chaptersID": "6",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter6.txt"
+            },
+            {
+                "chaptersID": "7",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter7.txt"
+            },
+            {
+                "chaptersID": "8",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter8.txt"
+            },
+            {
+                "chaptersID": "9",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter9.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_2_row1.jpg",
+        "title": "Bất Diệt Kiếm Thế",
+        "chapters": "1003 Chương",
+        "summary": "assets/text/summary/bat_diet_kiem_the.txt",
+        "author": "Thập Bộ Hành",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BatDietKiemThe/bat_diet_kiem_the_1.txt"
+            },
+            {
+                "chaptersID": "2",
+                "chaptersContent": "assets/text/chapters/BatDietKiemThe/bat_diet_kiem_the_2.txt"
+            },
+            {
+                "chaptersID": "3",
+                "chaptersContent": "assets/text/chapters/BatDietKiemThe/bat_diet_kiem_the_3.txt"
+            },
+            {
+                "chaptersID": "4",
+                "chaptersContent": "assets/text/chapters/BatDietKiemThe/bat_diet_kiem_the_4.txt"
+            },
+            {
+                "chaptersID": "5",
+                "chaptersContent": "assets/text/chapters/BatDietKiemThe/bat_diet_kiem_the_5.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_3_row1.jpg",
+        "title": "Chân Linh Cửu Biến",
+        "chapters": "1779 Chương",
+        "summary": "assets/text/summary/chan_linh_cuu_bien.txt",
+        "author": "Thụy Thu",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/ChanLinhCuuBien/chan_linh_cuu_bien1.txt"
+            },
+            {
+                "chaptersID": "2",
+                "chaptersContent": "assets/text/chapters/ChanLinhCuuBien/chan_linh_cuu_bien2.txt"
+            },
+            {
+                "chaptersID": "3",
+                "chaptersContent": "assets/text/chapters/ChanLinhCuuBien/chan_linh_cuu_bien3.txt"
+            },
+            {
+                "chaptersID": "4",
+                "chaptersContent": "assets/text/chapters/ChanLinhCuuBien/chan_linh_cuu_bien4.txt"
+            },
+            {
+                "chaptersID": "5",
+                "chaptersContent": "assets/text/chapters/ChanLinhCuuBien/chan_linh_cuu_bien5.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_1_row2.jpg",
+        "title": "Chân Tiên",
+        "chapters": "892 Chương",
+        "summary": "assets/text/summary/ban_kiep_tieu_tien.txt",
+        "author": "Random",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_2_row2.jpg",
+        "title": "Chí Tôn",
+        "chapters": "880 Chương",
+        "summary": "assets/text/summary/chi_ton.txt",
+        "author": "Cổ Chân Nhân",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_3_row2.jpg",
+        "title": "Đại Ma Đầu",
+        "chapters": "1322 Chương",
+        "summary": "assets/text/summary/dai_ma_dau.txt",
+        "author": "Tiên Tử Nhiêu Mệnh",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_1_row3.jpg",
+        "title": "Dị Thế Tà Quân",
+        "chapters": "1278 Chương",
+        "summary": "assets/text/summary/di_the_ta_quan.txt",
+        "author": "Phong Lăng Thiên Hạ",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_2_row3.jpg",
+        "title": "Độc Bộ Thiên Hạ",
+        "chapters": "1056 Chương",
+        "summary": "assets/text/summary/doc_bo_thien_ha.txt",
+        "author": "Thạch Trư, Trạch Trư",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_3_row3.jpg",
+        "title": "Đấu Phá Thương Khung",
+        "chapters": "1641 Chương",
+        "summary": "assets/text/summary/dau_pha_thuong_cung.txt",
+        "author": "Thiên Tàm Thổ Đậu",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_1_row4.jpg",
+        "title": "Vạn Cổ Ma Tôn",
+        "chapters": "1641 Chương",
+        "summarypath": "assets/text/summary/ban_kiep_tieu_tien.txt",
+        "author": "Random",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_3_row4.jpg",
+        "title": "Cải Thiện Nghịch Bạo",
+        "chapters": "1779 Chương",
+        "summarypath": "assets/text/summary/ban_kiep_tieu_tien.txt",
+        "author": "Random",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_1_row5.jpg",
+        "title": "Thiện Cư Điện",
+        "chapters": "892 Chương",
+        "summarypath": "assets/text/summary/ban_kiep_tieu_tien.txt",
+        "author": "Random",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_2_row5.jpg",
+        "title": "Hệ Thống Bá Đạo",
+        "chapters": "1184 Chương",
+        "summarypath": "assets/text/summary/ban_kiep_tieu_tien.txt",
+        "author": "Random",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_3_row5.jpg",
+        "title": "Thần Tử Hoang Cổ",
+        "chapters": "1095 Chương",
+        "summarypath": "assets/text/summary/ban_kiep_tieu_tien.txt",
+        "author": "Random",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_1_row6.jpg",
+        "title": "Thái Cổ Hắc Long",
+        "chapters": "1278 Chương",
+        "summarypath": "assets/text/summary/ban_kiep_tieu_tien.txt",
+        "author": "Random",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_2_row6.jpg",
+        "title": "Ma Đế Truyền Kì",
+        "chapters": "345 Chương",
+        "summarypath": "assets/text/summary/ban_kiep_tieu_tien.txt",
+        "author": "Random",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    },
+    {
+        "image": "assets/image/Image_3_row6.jpg",
+        "title": "Tuyệt Thế Cường Long",
+        "chapters": "2028 Chương",
+        "summarypath": "assets/text/summary/ban_kiep_tieu_tien.txt",
+        "author": "Random",
+        "content": [
+            {
+                "chaptersID": "1",
+                "chaptersContent": "assets/text/chapters/BanKiepTieuTien/ban_kiep_tieu_tien_chapter1.txt"
+            }
+        ]
+    }
+
+   
+]

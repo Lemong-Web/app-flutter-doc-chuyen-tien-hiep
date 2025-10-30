@@ -1,0 +1,41 @@
+name: flutter_application_kiemhiep
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/image/
+   - assets/text/summary/
+   - assets/text/chapters/BanKiepTieuTien/
+   - assets/text/chapters/BatDietKiemThe/
+   - assets/text/chapters/ChanLinhCuuBien/
+   - assets/data/
+  fonts:
+   - family: Montserrat
+     fonts:
+      - asset: assets/fonts/Montserrat-Black.ttf
+
+   - family: OpenSans
+     fonts:
+      - asset: assets/fonts/OpenSans_Condensed-Light.ttf
+
+   - family: BitcountGridSingle
+     fonts:
+      - asset: assets/fonts/OpenSans_Condensed-Light.ttf
+ 
