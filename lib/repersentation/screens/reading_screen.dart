@@ -368,7 +368,7 @@ class _ReadingScreenState extends State<ReadingScreen> {
                   label: 'List',
                 ),
                  BottomNavigationBarItem(
-                  icon: Icon(Icons.list),
+                  icon: Icon(Icons.mic),
                   label: 'List',
                   
                 ),
